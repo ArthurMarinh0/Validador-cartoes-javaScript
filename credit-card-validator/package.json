@@ -1,0 +1,19 @@
+{
+  "name": "credit-card-validator",
+  "version": "1.0.0",
+  "description": "A simple credit card validator that checks card validity and identifies card types.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "credit card",
+    "validator",
+    "luhn"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "type": "module"
+}
